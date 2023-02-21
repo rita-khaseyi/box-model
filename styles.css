@@ -1,0 +1,11 @@
+.outer{
+    border: dotted purple;
+}
+.inner{
+    border:solid brown;
+    padding: 20px;
+    margin: 5%;
+}
+p{
+    text-align: center;
+    
